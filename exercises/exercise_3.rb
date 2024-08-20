@@ -1,4 +1,4 @@
-ages = [20, 32, 24, 16, 12]
+ages = [20, 32, 24, 16, 12, 42]
 
 def who_is_adult(ages)
   adult = []
